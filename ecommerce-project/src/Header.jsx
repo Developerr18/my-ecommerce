@@ -46,7 +46,6 @@ export default function Header() {
                     <div className="ml-2 font-semibold text-black">Cart</div>
                 </a>
             </div>
-            <div></div>
         </div>
     );
 }
